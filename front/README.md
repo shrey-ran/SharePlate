@@ -1,4 +1,4 @@
-# 🍽️ Food Secure Network
+# 🍽️SharePlate
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00C1FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hi+there!+I'm+Vineet+S+U+%F0%9F%91%8B;A+Full-Stack+Developer+%7C+Cloud+Enthusiast+%7C+AI+Innovator" alt="Welcome Banner" />
 
