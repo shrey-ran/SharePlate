@@ -1,4 +1,4 @@
-# 🥗 Food Secure Network
+# 🥗 SharePlate
 
 
 **Food Secure Network** is a web application that bridges the gap between food surplus providers (like restaurants and grocery stores) and local charities/shelters. The goal is to reduce food waste and support communities in need through efficient, real-time coordination.
@@ -29,7 +29,7 @@
 
 - 🔁 **Matching Engine**  
   A built-in logic engine matches available food to nearby charities based on location, need, and food type.
-
+what should i click i dii 
 - 📊 **Admin Dashboard**  
   Admin users can manage food listings, user roles, resolve disputes, and view analytics (e.g., total food rescued, active users).
 
